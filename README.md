@@ -41,6 +41,7 @@ I am always open to connecting with fellow AI enthusiasts, researchers, and pote
 * **X:** https://www.x.com/danhtrancse
 * **Facebook:** https://www.facebook.com/danhtrancse
 <!--
+* **Blog:** https://danhtrancse.github.io
 * **Discord:** +84386760143
 * **Zalo:** +84386760143
 * **Telegram:** +84386760143
