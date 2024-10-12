@@ -9,7 +9,7 @@ I am a driven and results-oriented AI Engineer passionate about building intelli
 * **Computer Vision:** Object Detection & Tracking, Image Classification, Segmentation, Image Processing 
 * **Natural Language Processing:** Sentiment Analysis, Text Classification, Named Entity Recognition, Machine Translation 
 * **Data Science & Analytics:** Data Mining, Data Visualization, Predictive Modeling, Statistical Analysis
-
+<!--
 🚀 **Technical Proficiency:**
 
 * **Programming Languages:** Python (Expert), [Other Relevant Languages]
@@ -27,7 +27,7 @@ This GitHub repository showcases a selection of my personal projects and contrib
 * **[Project Name 3]:** [Brief 1-sentence description and link to project repository]
 
  *(More details about each project can be found within their respective repositories.)*
-
+-->
 🌱 **Continual Learning & Development:** I am an avid learner and am constantly seeking to expand my knowledge and skills within the ever-evolving field of Artificial Intelligence.  I am currently exploring: 
 
 *  I am actively expanding my expertise in Generative Adversarial Networks (GANs) for image synthesis and exploring the applications of Federated Learning in privacy-preserving AI frameworks.
@@ -37,9 +37,9 @@ This GitHub repository showcases a selection of my personal projects and contrib
 I am always open to connecting with fellow AI enthusiasts, researchers, and potential collaborators. Feel free to reach out!
 
 * **LinkedIn:** https://www.linkedin.com/in/danhtrancse 🔗
-* **Email:** danhtran.cse@gmail.com 📧
-* **X:** https://www.x.com/danhtrancse
-* **Facebook:** https://www.facebook.com/danhtrancse
+* **Email:** danhtran8mind@gmail.com 📧
+* **X:** https://www.x.com/danhtran8mind
+* **Facebook:** https://www.facebook.com/danhtran8mind
 <!--
 * **Blog:** https://danhtrancse.github.io
 * **Discord:** +84386760143
