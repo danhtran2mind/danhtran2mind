@@ -21,7 +21,10 @@ I am a driven and results-oriented AI Engineer passionate about building intelli
 **Project Portfolio:**
 
 This GitHub repository showcases a selection of my personal projects and contributions to open-source initiatives:
-
+- Lincense Plate Detection
+- Football Detection
+- Face2Sketch or selfie2Anime
+- Voice Cloning Detection
 * **[Project Name 1]:** [Brief 1-sentence description and link to project repository]
 * **[Project Name 2]:** [Brief 1-sentence description and link to project repository]
 * **[Project Name 3]:** [Brief 1-sentence description and link to project repository]
@@ -41,7 +44,7 @@ I am always open to connecting with fellow AI enthusiasts, researchers, and pote
 * **X:** https://www.x.com/danhtran8mind
 * **Facebook:** https://www.facebook.com/danhtran8mind
 <!--
-* **Blog:** https://danhtrancse.github.io
+* **Blog:** https://danhtran8mind.github.io
 * **Discord:** +84386760143
 * **Zalo:** +84386760143
 * **Telegram:** +84386760143
