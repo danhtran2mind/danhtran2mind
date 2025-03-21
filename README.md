@@ -39,10 +39,10 @@ This GitHub repository showcases a selection of my personal projects and contrib
 
 I am always open to connecting with fellow AI enthusiasts, researchers, and potential collaborators. Feel free to reach out!
 
-* **LinkedIn:** https://www.linkedin.com/in/danhtran2mind 🔗
+* **LinkedIn:** linkedin.com/in/danhtran2mind 🔗
 * **Email:** danhtran2mind@gmail.com 📧
-* **X:** https://www.x.com/danhtran2mind
-* **Facebook:** https://www.facebook.com/danhtran2mind
+* **X:** x.com/danhtran2mind
+* **Facebook:** facebook.com/danhtran2mind
 <!--
 * **Blog:** https://danhtran2mind.github.io
 * **Discord:** +84386760143
