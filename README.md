@@ -45,9 +45,9 @@ I am always open to connecting with fellow AI enthusiasts, researchers, and pote
 * **Facebook:** facebook.com/danhtran2mind
 <!--
 * **Blog:** https://danhtran2mind.github.io
-* **Discord:** +84386760143
-* **Zalo:** +84386760143
-* **Telegram:** +84386760143
+* **Discord:** 
+* **Zalo:** 
+* **Telegram:** 
 -->
 Let's innovate and shape the future of AI, together. 🚀 
 
