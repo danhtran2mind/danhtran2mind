@@ -1,4 +1,7 @@
 ## Danh Tran 🚀  **AI Engineer** 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=danhtran2mind&color=013243)
+
 <img src="https://avatars.githubusercontent.com/u/179741572" height="300">
 
 I am a driven and results-oriented AI Engineer passionate about building intelligent systems that solve real-world problems.  I am fascinated by the potential of artificial intelligence to drive innovation and am committed to leveraging my expertise to develop cutting-edge solutions. 
