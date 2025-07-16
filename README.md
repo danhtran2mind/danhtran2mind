@@ -1,6 +1,6 @@
 ## Danh Tran 🚀  **AI Engineer** 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=danhtran2mind&color=013243)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=danhtran2mind&color=blueviolet&label=PROFILE+VIEWS&style=flat&abbreviated=true)
 
 <img src="https://avatars.githubusercontent.com/u/179741572" height="300">
 
