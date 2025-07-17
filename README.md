@@ -46,6 +46,7 @@ I am always open to connecting with fellow AI enthusiasts, researchers, and pote
 * **Email:** danhtran2mind@gmail.com 📧
 * **X:** x.com/danhtran2mind
 * **Facebook:** facebook.com/danhtran2mind
+* **HuggingFace:** huggingface.co/danhtran2mind
 <!--
 * **Blog:** https://danhtran2mind.github.io
 * **Discord:** 
