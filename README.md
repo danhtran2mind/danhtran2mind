@@ -1,8 +1,8 @@
 ## Danh Tran 🚀  **AI Engineer** 
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=danhtran2mind&color=blueviolet&label=PROFILE+VIEWS&style=flat&abbreviated=true)
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanhtran2mind&label=VIEWS&icon=github&color=%236f42c1&message=&style=social&tz=UTC)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=danhtran2mind&color=blueviolet&label=TOTAL+GITHUB+VIEWS&style=flat&abbreviated=true)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanhtran2mind&label=PROFILE+VIEWS&icon=github&color=%236f42c1&message=&style=social&tz=UTC)
 
 <img src="https://avatars.githubusercontent.com/u/179741572" height="300">
 
